@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body
+{
+    background-image:url(travel.jpg), linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7));
+    background-repeat: repeat;
+    background-position: center;
+    background-size: auto;  
+}
+.navbar
+{
+    display: inline;
+}
+.logo
+{
+cursor: pointer;
+float: left;
+}
+.navbar nav ul
+{
+    list-style: none;
+    color: black;
+    display: inline;
+    text-decoration: none;
+}
